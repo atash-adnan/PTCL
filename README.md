@@ -19,13 +19,12 @@ This project dives into PTCL's fiber-optic network expansion, exploring how it e
 - Jupyter Notebook: For organizing and sharing the analysis process.
 
   # How to Use:
-  1. Clone this repository:
-     git clone https://github.com/yourusername/ptcl-fiberization.git
+ 1. Clone this repository: git clone https://github.com/yourusername/ptcl-fiberization.git
  2. Install dependencies:
     pip install -r requirements.txt
  3. Open the analysis notebook:
     jupyter notebook
-4. Explore the insights and findings.
+ 4. Explore the insights and findings.
 
  # Contributing
  Contributions are welcome! If you have suggestions or data to add, feel free to fork the repository and submit a pull request.
